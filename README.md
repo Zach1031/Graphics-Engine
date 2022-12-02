@@ -4,4 +4,4 @@ This is a graphics engine I created as part of the Launchpad mentorship program 
 
 ## Result
 To save the effort, I embeded a gif of the result.
-![](https://github.com/Zach1031/Graphics-Engine/Square.gif)
+![](https://github.com/Zach1031/Graphics-Engine/blob/master/Square.gif)
